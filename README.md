@@ -10,7 +10,7 @@ Olá candidato, nesse teste será esperado os seguintes critérios de aceitaçã
 
 * Poderá ser feito utilizando o banco de dados SQLite do próprio framework ou outro caso o candidato desejar.
 
-* O front-end deverá ser feito para interagir com o back-end mas não sera avaliado, não é necessário nenhum tipo de estilização e etc, apenas uma interface que consiga interagir com a API.
+* O front-end deverá ser feito para interagir com o back-end mas não sera avaliado mas é um diferencial, não é necessário nenhum tipo de estilização e etc, apenas uma interface que consiga interagir com a API.
 
 
 # Inicial:
