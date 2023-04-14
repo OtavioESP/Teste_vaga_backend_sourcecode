@@ -15,9 +15,12 @@ Olá candidato, nesse teste será esperado os seguintes critérios de aceitaçã
 
 # Inicial:
 
+* Tenha certeza de estar com python 3.7 a 3.8, e seus comandos podem variar de `python` a `python3` e `pip` a `pip3` 
+
 * Para rodar o projeto, as dependências estão especificados no `requirements.txt`
 
 * Para utiliza-los utilize `$ pip insall -r requirements.txt`, as dependências serão instaladas.
+
 
 # Contexto:
 
@@ -36,3 +39,9 @@ OBS: Dispensa de disciplina refere-se ao aproveitamento dos estudos realizados e
 - As disciplinas da grade curricular da instituição Y que se encontrem atualmente cursando e sejam equivalentes com a nova grade da instituição X, deverão continuar sendo cursadas pelo candidato, caso cumprir o requisito mínimo de Carga Horária equivalente.
 
 - As disciplinas da grade curricular da instituição Y que se encontrem atualmente reprovadas e sejam equivalentes com a nova grade da instituição X, deverão ser cursadas pelo candidato, caso cumprir o requisito mínimo de Carga Horária equivalente.
+
+# Exemplos de URL:
+
+http://localhost:8000/instituicao-y/alunos
+
+http://localhost:8000/admin
